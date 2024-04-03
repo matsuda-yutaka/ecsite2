@@ -23,20 +23,20 @@
 		</action>
 
 		<!-- UserCreateAction -->
-		<!-- <action name="UserCreateAction" class="com.diworksdev.ecsite.action.UserCreateAction" method="execute">
+		<action name="UserCreateAction" class="com.diworksdev.ecsite.action.UserCreateAction" method="execute">
 			<result name="success">userCreate.jsp</result>
-		</action> -->
+		</action>
 
 		<!-- UserCreateConfirmAction -->
-		<!-- <action name="UserCreateConfirmAction" class="com.diworksdev.ecsite.action.UserCreateConfirmAction" method="execute">
+		<action name="UserCreateConfirmAction" class="com.diworksdev.ecsite.action.UserCreateConfirmAction" method="execute">
 			<result name="success">userCreateConfirm.jsp</result>
 			<result name="error">userCreate.jsp</result>
-		</action> -->
+		</action>
 
 		<!-- UserCreateCompleteAction -->
-		<!-- <action name="UserCreateCompleteAction" class="com.diworksdev.ecsite.action.UserCreateCompleteAction" method="execute">
+		<action name="UserCreateCompleteAction" class="com.diworksdev.ecsite.action.UserCreateCompleteAction" method="execute">
 			<result name="success">userCreateComplete.jsp</result>
-		</action> -->
+		</action>
 
 		<!-- BuyItemAction -->
 		<!-- <action name="BuyItemAction" class="com.diworksdev.ecsite.action.BuyItemAction" method="execute">
